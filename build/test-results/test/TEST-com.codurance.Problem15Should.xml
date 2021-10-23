@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.codurance.Problem15Should" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-23T07:23:35" hostname="Toms-MBP-2" time="0.062">
+  <properties/>
+  <testcase name="find_routes_bigInteger_through_2_by_2()" classname="com.codurance.Problem15Should" time="0.058"/>
+  <testcase name="find_routes_through_20_by_20_grid()" classname="com.codurance.Problem15Should" time="0.001"/>
+  <testcase name="find_routes_bigInteger_through_20_by_20()" classname="com.codurance.Problem15Should" time="0.001"/>
+  <testcase name="find_routes_through_2_by_2_grid()" classname="com.codurance.Problem15Should" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
