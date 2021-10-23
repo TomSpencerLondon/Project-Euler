@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.codurance.Problem14Should" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-23T06:27:15" hostname="Toms-MBP-2" time="0.241">
+  <properties/>
+  <testcase name="largestCollatzBelow1_000_000()" classname="com.codurance.Problem14Should" time="0.241"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
